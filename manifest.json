@@ -1,7 +1,7 @@
 {
     "name": "Chatomz PWA App",
     "short_name": "Chatomz App",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "icons": [
       {
