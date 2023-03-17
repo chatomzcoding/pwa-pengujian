@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1662612/public_html/sistem
+    - export DEPLOYPATH=/home/u1662612/public_html/pwa
     - /bin/cp -R icons $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
