@@ -1,7 +1,12 @@
 const CACHE_NAME = 'chatomz-pwa-v1';
 const urlsToCache = [
   '/',
-  '/index.html'
+  '/index.html',
+  '/img/gambar.png',
+  '/icons/icon-64x64.png',
+  '/icons/icon-128x128.png',
+  '/icons/icon-256x256.png',
+  '/icons/icon-512x512.png',
 ];
 
 self.addEventListener('install', (event) => {
