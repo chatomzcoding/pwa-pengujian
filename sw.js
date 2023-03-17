@@ -2,6 +2,7 @@ const CACHE_NAME = 'chatomz-pwa-v1';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/manifest.json',
   '/img/gambar.png',
   '/icons/icon-64x64.png',
   '/icons/icon-128x128.png',
